@@ -1,5 +1,6 @@
 **Overview**
 
+![alt text](https://github.com/Christomesh/Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines/blob/master/flu-vaccine.jpg?raw=true)
 
 Can you predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors?
 
